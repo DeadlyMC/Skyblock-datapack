@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:spruce_log"
+  },
+  "result": "minecraft:charcoal",
+  "experience": 0.1,
+  "cookingtime": 100
+}
