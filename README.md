@@ -5,3 +5,8 @@ Datapack with crafting/smelting recipes for ilmango patreon skyblock 1.14
 - Download the datapack from the releases section of this github repository
 - Drop the zip file in the datapacks folder of your world
 - And u are done!
+
+# How to spawn an island
+- Use the command '/function minecraft:spawn_island'
+or
+- You can use a structure file called minecraft:skyblock_platform
