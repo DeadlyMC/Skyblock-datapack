@@ -7,6 +7,6 @@ Datapack with crafting/smelting recipes for ilmango patreon skyblock 1.14
 - And u are done!
 
 # How to spawn an island
-- Use the command '/function skyblock:spawn_island'
-or
+- Use the command `/function skyblock:spawn_island`
+  or
 - You can use a structure file called skyblock:skyblock_platform
