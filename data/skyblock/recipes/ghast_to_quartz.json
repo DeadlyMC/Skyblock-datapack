@@ -1,0 +1,7 @@
+{
+"type": "smelting", 
+"ingredient": { "item": "minecraft:ghast_tear" }, 
+"result": "minecraft:quartz", 
+"experience": 0.5, 
+"cookingtime": 200 
+}
