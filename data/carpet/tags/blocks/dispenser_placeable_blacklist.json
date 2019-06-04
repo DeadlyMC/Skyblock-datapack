@@ -18,6 +18,7 @@
     "minecraft:red_mushroom",
     "minecraft:cocoa",
     "minecraft:carrots",
-    "minecraft:potatoes"
+    "minecraft:potatoes",
+    "#minecraft:anvil"
   ]
 }
