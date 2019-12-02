@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "SDS",
+        "SES"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_block"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        },
+        "D": {
+            "item": "minecraft:dragon_head"
+        },
+        "E": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}
