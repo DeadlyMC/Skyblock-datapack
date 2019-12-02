@@ -5,6 +5,8 @@
       }
    },
    "rewards": {
-      "recipes":"skyblock"
+      "recipes": [
+		"skyblock"
+	  ]
    } 
 }
