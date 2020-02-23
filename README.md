@@ -1,5 +1,5 @@
 # Skyblock-datapack
-Datapack with crafting/smelting recipes for ilmango patreon skyblock 1.14
+Datapack with crafting/smelting recipes for ilmango patreon skyblock 
 
 # How to use?
 - Download the datapack from the releases section of this github repository
