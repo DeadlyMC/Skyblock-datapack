@@ -6,7 +6,8 @@
    },
    "rewards": {
       "recipes": [
-		"skyblock"
-	  ]
+         "skyblock"
+      ],
+      "function": "skyblock:spawn_island"
    } 
 }
